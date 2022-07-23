@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "capstonevalorantbot",
+  "private_key_id": "5f4236e48716d3df60d96998eb9fab758eaa29fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDpVtq1YLN4bSbK\nkRVQ+IcJGQoR40dErEaPV4Q5pbNO2Yf490yLLxD7vKq9MibhVEhjy8fTm5uCv/WV\nL4QUTvrqjnWuy5Wv6T3C16jp+XLm5kwvCobUIgeYYje1HRAc+XUnoLUA71FUT691\nKEu4IBHUAlbFdF3FTfwSrAI34xMwSRNVXqKVyYutR5BVfJdZB7x0jiF/Qn+CYJYN\nXEOOLLlHXyXZzveFvA6ATVZC0YKcQXznqWszRZQVVsgRlSjrTvYcpvp3KSpJdU3c\nNESOJwKs2vLPw230TczdU4K++dpvb/B3rQint9u3sJ02wK6gMoGO6+1oFOG41qIC\nJv4CbQNvAgMBAAECggEAAjdje26QNdgfkrP/FlZN/g2hVVspzaKvRuRHar7CrcCO\nNJSwwu+vAx0fKA3mZaSFzYDdhIqJVxwYqpKZeBHp+zlgL8laQiH+hq/CuHo4l63f\nUmEQt8oc9VsVeWBty0CpVreFkJ01Ug4xtfSsh3KyiKd/CIAa9elQOCMvIDXFdGNw\nqRpCdhFiNqqY2VxayyN7dWm6BuK8wr2RFmZUTIFgMjS6S7eisWcIKSHRKngOAJm8\nNHYw8N7MEtPMPaUUXOi6kr0N1sLu6xTk2nurX4/X98s1CwLffHJxert/k2Z8p4FR\nVc24ZRB8QlNEO+hzuP+apZniwC8nb3O0xOmQIIQyKQKBgQD6ZkOpAGjQ884opTwj\nUpXMHele/HoVI86aH4cMdQ7lVbPMONhbQ8aFZYnlAG9amrZ1Tc4PT5/Y9FdnCluO\n0PUtlo5Q13fsEC/HZrv009TNeYIGnzfiUcvBRLzniAmtpY/RRmw+x0R6xoaEE7La\nEu6AWfEXhmxQ3WxpVGuYx+KVGQKBgQDujugo8paxPsulzccSkBlGiY/Pn99ikJuD\ncrMADyzBZ4W4cX4nCYat1/H/BW2u1J6k0j17HluGO5NmMT7x6I1m3dhFWxuufMsA\nPOoUadVh+EL89for44OD0B2S02QfocpkO05HMHy0TAn/KB458a5AdExSqmKa45Tm\nYYPcdQKlxwKBgQDrYkzCRt9BZZ7r+IAy2ER2z7t8jiyZSMLDgVWrcTLihRDyrpE8\nIdcxuQTKoAENlBhm5xAItpoWEYNEGql89JM2GqyH9DUIVSME+F9BxAvsaAfB/9RB\nzRCUCvDlWa13bgZm/SNuVFXccFktOXNMqrVHNMV9juCtl6h8z14iDezCqQKBgH/u\nARAcb7VjcIBc5tnMjtFl6co0+O15kPwf4WAxwxWAd5RewIEcua22dV8GQTiVavIG\nkNPahshoYHZYCGJgDJxSca1X23NqFs7s27bQvo6IPRw8qMkqfBeO3p0jYbkY4Vl4\n+FRy6x0g/edoUzVNpt2HwHpARxq62tnlB3qNATt3AoGAF1C7xMNCya0wxumbqVRR\nT5q2BszvK7qaG3+5M/IyxyUoKoo0bKdbIy5Oh3xqXerNn3wbBESggUzUcdATUrIW\nrDNRl6Hnwpgj0BERSEjCERsrlWkXiWIB8JG+PsA/iySl/sM95UTF7IY7zq4FtwvX\nSKnjbnCo4mpnqgU2/UmDyYw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stupidbotvalorantlmao@capstonevalorantbot.iam.gserviceaccount.com",
+  "client_id": "106244106370674581770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stupidbotvalorantlmao%40capstonevalorantbot.iam.gserviceaccount.com"
+}
